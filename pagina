@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ANIMALS</title>
+</head>
+<body>
+
+    <h1>BULLDOG FRANCES</h1>
+
+    <a href="#ESTANDAR">
+    ESTANDAR
+    </a>
+    <br>
+    <a href="#EXOTICO">
+    EXOTICO
+    </a>
+<br><br>
+    <img width="300" height="200" src="https://media.istockphoto.com/id/1349888325/es/foto/bulldogs-franceses-negros-y-bronceados.jpg?s=612x612&w=0&k=20&c=3KwYxFNZ5qoO70m8GmTTULbSPzIbt6G44T4gcYkIezs=">
+
+<div style="background-color: aliceblue;padding: 10px;">
+
+    <p>El Bulldog Francés, a pesar de su nombre, tiene sus orígenes en Inglaterra en el siglo XIX, donde fue desarrollado a partir de versiones más pequeñas del Bulldog Inglés, especialmente por obreros textiles de Nottingham. Cuando muchos de estos trabajadores emigraron a Francia durante la Revolución Industrial, llevaron consigo a estos perros, que allí fueron cruzados con razas locales, dando origen al Bulldog Francés moderno, <span style="color: red">caracterizado por sus orejas de “murciélago” y su tamaño compacto</span>. En Francia, rápidamente se convirtió en un perro popular entre la alta sociedad, artistas y bohemios. Más tarde, su fama se extendió a otros países, incluyendo Estados Unidos, donde también se volvió muy apreciado. Esta raza es conocida hoy no solo por su apariencia simpática, sino también por su carácter afectuoso y su estrecha relación con la vida urbana y social desde sus inicios.</p>
+    </div>
+
+<br><br><br>
+
+    <h2 id="ESTANDAR">TIPOS DE RAZAS ESTANDAR</h2>
+
+    <img width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROmuEa0_1mY6qKrgJKETC9tZNVvj6Cn-dNGA&s">
+
+    <ul>
+    <li>Brindle: pelaje oscuro con rayas claras.</li>
+    <li>Brindle & White: mezcla de blanco con manchas atigradas.</li>
+    <li>Fawn: color beige claro a oscuro, puede tener máscara negra.</li>
+    <li>Blanco: completamente blanco o con muy pocas manchas.</li>
+    </ul>
+
+<p>El Bulldog Francés estándar es una raza de perro pequeño, compacto y musculoso, conocido por sus características orejas grandes y erectas en forma de murciélago, su hocico corto y su expresión alerta y simpática. Según los estándares internacionales, su peso ideal está entre 8 y 14 kilogramos, con una altura aproximada de 27 a 33 cm. Su pelaje es corto, liso y brillante, y puede presentarse en diversos colores como atigrado, leonado y blanco con manchas. </p>
+
+    <a target="_blank" href="https://frenchbulldogclub.org/breedstandard/">
+    DEFINICION TIPO ESTANDAR
+    </a>
+
+    <h3 id="ESTANDAR">
+        
+
+    </h3>
+
+
+<br><br><br>
+
+    <h2 id="EXOTICO">TIPO EXOTICO</h2>
+
+<img width="300" height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMqLlpyxPOfESyuaugiICRF7ucvU55ijO1kQ&s">
+
+    <ol>
+    <li>blue: gris azulado; muy deseado pero asociado con problemas de salud genética.</li>
+    <li>Chocolate: marrón oscuro.</li>
+    <li>Lilac (lavanda): mezcla de azul con chocolate.</li>
+    <li>Merle: pelaje moteado, muy llamativo pero con alto riesgo de problemas genéticos.</li>
+    <li>Isabella: tono pálido o crema claro con reflejos grises o lilas.</li>
+    </ol>
+
+    <p>El Bulldog Francés exótico es una variante no reconocida oficialmente por los estándares tradicionales de las federaciones caninas, pero muy popular entre algunos criadores y aficionados por sus colores y características únicas. A diferencia del estándar, esta versión puede presentar pelajes en tonos poco comunes como azul, lilac, merle, chocolate y tan, así como ojos de colores llamativos, como azules o verdes. Aunque físicamente mantiene la estructura compacta y musculosa del Bulldog Francés, algunos ejemplares pueden tener variaciones en el tamaño, forma de las orejas o del hocico.</p>
+
+    <a target="_blank" href="https://tomkingskennel.com/exotic-french-bulldog/"> DEFINICION TIPO EXOTICO</a>
+    <br>
+    <a href="#informacion">
+    (Ir arriba)
+    </a>
+
+        
+    <h2></h2>
+
+   
+</body>
+</html>
